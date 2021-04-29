@@ -1,4 +1,4 @@
-,date,user_name,user_id,user_location,id_tweet,favorites,retweets,hashtags,text
+,0,1,2,3,4,5,6,7,8
 0,2021-04-07 13:52:52,jcuecam,217779492,España,1379794306215641088,1,1,[],"Guía de vacunación en Aragón: cuándo, qué grupos, con qué vacunas y cómo pedir cita via @heraldoes https://t.co/YWnpzT3wfP"
 1,2021-04-07 13:40:00,eeb_ove,1219941855871356928,Bilbao,1379791066618941443,0,0,[],"📢 Estas son algunas de las preguntas que le hemos hecho a Sara de la Rica, @saradelarica . Conoce las respuestas en nuestro blog.
 
@@ -46,7 +46,7 @@ Despite vaccination success, Hungary sets daily record COVID deaths | Euronews h
 Sois unos cracks @Salud_JCYL https://t.co/77u7MEm9q1"
 16,2021-04-03 06:33:02,RadioLeonSER,461833396,León - España,1378234065053224962,6,2,[],"‼️ Si has nacido en los años 56 y 57, hoy puedes participar en la vacunación masiva de León.
 
-Habrá largas colas, así que recuerda ir preparado 🌞 ☂️ 🪑🥤
+Habrá largas colas, así que recuerda ir preparado 🌞 ☂️ 🥤
 
 Aquí tienes los detalles 👇🏻
 
@@ -115,7 +115,7 @@ Vacunación en España
 https://t.co/K5taAzqQ0w https://t.co/sRiJ6PbK0n"
 42,2021-04-01 10:01:50,_carloscam_,45929364,Madrid,1377561835281481728,1,0,"[{'text': 'COVID19', 'indices': [150, 158]}]","Qué buenas noticias de Andalucía, donde casi la totalidad de las personas mayores de 80 años han recibido, al menos, una dosis de la vacuna contra el #COVID19. https://t.co/kY7y2U59iV via @el_pais"
 43,2021-04-01 09:51:00,salvadorsanvil1,2589003921,***SALAMANCA***,1377559109738856448,2,2,[],"Últimas noticias del coronavirus, en directo | La OMS ve “inaceptablemente lento” el ritmo de vacunación en Europa via @el_pais https://t.co/qNqRYp1kxP"
-44,2021-04-01 08:59:22,JavierAyusoC,1288377086,Madrid,1377546117689249792,50,11,[],"Mi artículo de hoy en ⁦@expansioncom⁩ . Ayer recibí la primera dosis de la vacuna AstraZeneca contra el COVID-19. En la cola del Wanda primaba la esperanza frente a la tristeza, el hartazgo y el miedo. Hay que acelerar la vacunación en España. https://t.co/1M7xICXKXf"
+44,2021-04-01 08:59:22,JavierAyusoC,1288377086,Madrid,1377546117689249792,50,11,[],"Mi artículo de hoy en @expansioncom . Ayer recibí la primera dosis de la vacuna AstraZeneca contra el COVID-19. En la cola del Wanda primaba la esperanza frente a la tristeza, el hartazgo y el miedo. Hay que acelerar la vacunación en España. https://t.co/1M7xICXKXf"
 45,2021-04-01 08:53:31,TomasPereda,128535420,Madrid,1377544644448358403,1,0,[],"Mientras haya dosis, la vacunación tiene que seguir para todos los colectivos y en todos los centros, las 24 horas de los 7 días de la semana. El virus no entiende de descansos
 
 En @elconfidencial: Ayuso y Gabilondo enfangan la campaña por el parón vacunal https://t.co/LW4oOGI5ST"
@@ -249,7 +249,7 @@ Hilo👇 https://t.co/URm9poIeFB"
 92,2021-03-31 17:58:55,elfaradio,797028270,,1377319510399713287,0,1,[],Sanidad prevé finalizar la próxima semana la vacunación de mayores de 80 años y no descarta restablecer medidas más restrictivas si continúa el aumento de la incidencia de casos https://t.co/yN9lqSKtTq
 93,2021-03-31 17:55:44,nusagatero,636268171,Comunidad Valenciana,1377318710365540357,4,4,[],El Pabellón del Toscar será finalmente donde comience la vacunación el 6 de abril en Elche https://t.co/y9ImxWgWU9 vía @RadioElcheSER
 94,2021-03-31 17:55:11,RadioElcheSER,381466214,"Elche, España",1377318572632969218,2,1,[],El Pabellón del Toscar será finalmente donde comience la vacunación el 6 de abril en Elche https://t.co/ZwX8KcWXo8 a través de @RadioElcheSER
-95,2021-03-31 17:46:16,XRBustelo,930927867608948736,"Salamanca, Spain",1377316328109965318,12,1,"[{'text': 'COVID', 'indices': [99, 105]}]","Hoy ⁦@el_pais⁩ habla de la falta vacunación prioritaria de científicos del ⁦@CSIC⁩ que trabajan en #COVID denunciada x mí ayer. ⁦@CienciaGob⁩ @ CSIC⁩ y ⁦⁦@ComunidadMadrid⁩ escurren el bulto. El problema, eso sí, sin solucionar https://t.co/5jBdQsuO4L"
+95,2021-03-31 17:46:16,XRBustelo,930927867608948736,"Salamanca, Spain",1377316328109965318,12,1,"[{'text': 'COVID', 'indices': [99, 105]}]","Hoy @el_pais habla de la falta vacunación prioritaria de científicos del @CSIC que trabajan en #COVID denunciada x mí ayer. @CienciaGob @ CSIC y @ComunidadMadrid escurren el bulto. El problema, eso sí, sin solucionar https://t.co/5jBdQsuO4L"
 96,2021-03-31 17:42:07,TeleElx,324877012,Elche,1377315282348240896,7,5,[],"🚨 La vacunación masiva arrancará el próximo 6 de abril en IFA.
 
 🗣 El alcalde ha señalado que cuando las dosis estén disponibles, la idea es vacunar a 5.000 personas al día.

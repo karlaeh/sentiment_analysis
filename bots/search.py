@@ -29,7 +29,7 @@ def main():
     language = 'es'
     numTweets = 500
     all_tweets = []
-    max_id = 1385019005325484033
+    max_id = 1385744943306534914
     api = create_api()
     numLoops = 0
 
@@ -37,8 +37,8 @@ def main():
         search_tweets(api,text_query, coordinates, language, numTweets, max_id, all_tweets)
         data = pd.DataFrame(all_tweets)
         max_id = int(data[4].min())-1
-        data.to_csv('20abril.csv', index=False)
-        if max_id <= 1384294413560471556:
+        data.to_csv('22abril.csv', index=False)
+        if max_id <= 1385019005325484033:
           break
         tweets_retrieved = len(all_tweets)
         logger.info('Tweets retrieved: ' + str(tweets_retrieved))
